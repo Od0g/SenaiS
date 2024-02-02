@@ -1,0 +1,14 @@
+A maneira mais simples de criar uma aplicação em Python é criar um arquivo .exe
+ou um .py que execute um código, com o qual o usuário possa interagir ou até
+mesmo acompanhar um evento na tela de seu computador.
+
+Imagine que você foi designado para uma tarefa onde precise criar um arquivo chamado
+cronometro.py que, ao ser clicado duas vezes, abre uma janela do executável Python e mostra
+um cronômetro que vai contabilizando segundos, minutos e horas.
+
+Provavelmente você deve estar se perguntando:
+ Por que isso seria uma espécie de aplicação,
+ 
+já que não possui nenhuma interface gráfica bacana e nem botões?
+
+

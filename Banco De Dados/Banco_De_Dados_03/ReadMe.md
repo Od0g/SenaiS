@@ -1,0 +1,2 @@
+Create - Inserindo um registro com comando SQL
+A única novidade aqui é o método commit(). É ele que grava de fato as alterações na tabela. Lembrando que uma tabela é alterada com as instruções SQL ``INSERT, UPDATE`` e ``DELETE``.
